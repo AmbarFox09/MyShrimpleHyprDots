@@ -20,3 +20,7 @@ wireplumber
 sddm-astronaut-theme
 paru
 udiskie
+
+Examples:
+![Alt text](2025-04-12-143728_hyprshot.png?raw=true "s1")
+![Alt text](2025-04-12-143822_hyprshot.png?raw=true "s2")
