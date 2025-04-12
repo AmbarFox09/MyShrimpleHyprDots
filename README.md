@@ -21,6 +21,6 @@ sddm-astronaut-theme
 paru
 udiskie
 
-Examples:
+Examples (wallpaper not included):
 ![Alt text](2025-04-12-143728_hyprshot.png?raw=true "s1")
 ![Alt text](2025-04-12-143822_hyprshot.png?raw=true "s2")
