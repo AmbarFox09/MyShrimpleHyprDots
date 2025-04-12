@@ -1,6 +1,7 @@
 # MyShrimpleHyprDots
 Just some half baked dot I made on break for my current Hyprland usage, its shrimple.
 This is mostly just for me to actually remember what to do to achieve a functioning setup.
+Change it however way you see fit.
 
 Needed Packages (I think):
 Mostly everything hyprland related (hyprpaper, hyprlock, hyprshot, kitty)
